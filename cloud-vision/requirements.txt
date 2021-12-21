@@ -1,0 +1,3 @@
+protobuf
+google-cloud-storage
+google-cloud-vision

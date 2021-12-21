@@ -1,0 +1,19 @@
+{
+    "bucket": "MY_UNIQUE_PERSONAL_BUCKET",
+    "contentType": "image/jpeg",
+    "crc32c": "uGXH4A==",
+    "etag": "CPaauOGv9fQCEAE=",
+    "generation": "1640106212330870",
+    "id": "MY_UNIQUE_PERSONAL_BUCKET/MY_PICTURE.jpg/1640106212330870",
+    "kind": "storage#object",
+    "md5Hash": "VHwnW4PU6MHlHHwS8Vuuqg==",
+    "mediaLink": "https://www.googleapis.com/download/storage/v1/b/MY_UNIQUE_PERSONAL_BUCKET/o/MY_PICTURE.jpg?generation=1640106212330870&alt=media",
+    "metageneration": "1",
+    "name": "MY_PICTURE.jpg",
+    "selfLink": "https://www.googleapis.com/storage/v1/b/MY_UNIQUE_PERSONAL_BUCKET/o/MY_PICTURE.jpg",
+    "size": "908993",
+    "storageClass": "STANDARD",
+    "timeCreated": "2021-12-21T17:03:32.447Z",
+    "timeStorageClassUpdated": "2021-12-21T17:03:32.447Z",
+    "updated": "2021-12-21T17:03:32.447Z"
+}
